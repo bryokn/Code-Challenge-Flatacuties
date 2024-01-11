@@ -80,8 +80,7 @@ GET /characters
 * Fetch data from a local server running JSON DB server.
 
 ## Contacts
-Feel free to contact me at brianbryan0125@gmail.com.  Don't Forget to buy me coffee!!!
-
+Feel free to contact me at bryokn@gmail.com.
 ## LICENSE
 * MIT License
-Copyright (c) 2023 **Brian kiplangat**
+Copyright (c) 2024 **Brian Kipkirui**
