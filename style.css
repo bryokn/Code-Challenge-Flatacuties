@@ -1,0 +1,61 @@
+html {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .logo{
+    text-align: center;
+    background-color: rgb(20, 26, 27);
+    color: rgb(8, 249, 181);
+    padding: 0.5em;
+  }
+  
+  #character-bar {
+    height: 15vh;
+    background: rgb(19, 82, 108);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 3vh;
+  }
+  
+  #character-bar span {
+    padding: 1%;
+    height: 80%;
+    width: 8vw;
+    display: flex;
+    justify-content: center;
+    font-size: 3vh;
+    align-items: center;
+    border-radius: 2em;
+    border: 1px solid rgba(63, 80, 81, 0.697);
+  }
+  
+  .characterInfo{
+    height: 550px;
+    padding: 30px;
+    font-size: 24px;
+    border: ;
+    text-align: center;
+  }
+  
+  input[type="submit"], button {
+    background-color: rgb(185, 185, 208);
+    color: rgb(227, 22, 22);
+    font-size: 18px;
+    border-radius: 6px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  input[type="text"] {
+    font-size: 3vh;
+  }
+  
+  #image{
+    width: 300px;
+    height: 300px;
+  }
