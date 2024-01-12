@@ -22,7 +22,7 @@ As a user, I can:
    persistence is needed**.
 
 ## Project Author
-** Brian kiplangat ** fully builds this project
+** Brian Kipkirui** fully builds this project
 
 
 ## Pre-requisite Data
